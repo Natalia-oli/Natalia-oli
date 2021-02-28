@@ -36,7 +36,7 @@ Resumo Visual:
 
 **************** 
 #### **_Clique para me encontrar_:**
-[Meu Linkedin:](https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
+[Meu Linkedin](https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
 
 [Perfil no Medium](https://medium.com/@natalia.gomes/)<!DOCTYPE HTML/> <br/> 
 
