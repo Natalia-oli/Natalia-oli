@@ -47,5 +47,5 @@ Resumo Visual:
 E-mail: nataliaoliveira2@outlook.com  <!DOCTYPE HTML/> <br/> 
 Instagram: ___nataliao.gomes <br/>
 
-            Sou uma Técnica em informática quase licenciada em geografia, que ama a natureza, questões ambientais e conscientizar pessoas a esse respeito, mas vive flertando com a área da saúde e música, sendo amante da área de Tecnologia da Informação. E nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder :sparkles:
+            Sou uma Técnica em informática quase licenciada em geografia, que ama a natureza, questões ambientais e conscientizar pessoas a esse respeito, mas vive flertando com a área da saúde e música, sendo amante da área de Tecnologia da Informação. E nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder:sparkles:
 
