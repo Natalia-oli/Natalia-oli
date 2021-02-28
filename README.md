@@ -10,7 +10,7 @@
 
 # Hello :hand:
 ### _My name is Natália :dizzy:_
-  ###### **Nice to meet you!**   :smile: 
+  #### **Nice to meet you!**   :smile: 
   
 **************** 
 
@@ -18,8 +18,9 @@
 
      
  > _Sou amante do açai :alien:. Gosto de um bom MPB enquanto produzo, sem deixar de lado :sparkles:Los Hermanos:sparkles:. Também sou hiper preocupada com questões ambientais e sociais e assisto Gilmore Girs incansavelmente_. A cada dia mais encantada com Python e a Ciência de Dados. 
-
+**************** 
 Sou:
+
 + Técnica de Informática, pelo IFPE;
 + Técnica em Desenvolvimento de Sistemas, pela ETEPAC;
 + Estudante de Geografia;
@@ -30,7 +31,15 @@ Resumo Visual:
 
 | Apelido | Idade| Atualmente |
 | ---- | ---- | --------- |
-| Tainha | 23 | Estudante de Geografia e de dados e muito feliz com ambas as formações :yellow_heart:|
+| Tainha | 23 | Estudante de Geografia, inglês e de Dados:yellow_heart:|
+
+**************** 
+Encontre-me:
+ [Clique aqui][site-url]
+
+[LinkedIn]: (https://www.linkedin.com/in/natalia-gomes-4542781b1/)
+
+
 
 
 
