@@ -7,7 +7,7 @@
     </tr>   
 </table>
 </center> 
-**************** 
+
 # Hello :hand:
 ### _My name is Natália :dizzy:_
   ###### **Nice to meet you!**   :smile: 
@@ -17,7 +17,7 @@
       Quem é Natália?
 
      
- > _Sou amante do açai :alien:. Gosto de um bom MPB enquanto produzo, sem deixar de lado :sparkles:Los Hermanos:sparkles:. Também sou hiper preocupada com questões ambientais e sociais e assisto Gilmore Girs incansavelmente_. A cada dia mais encantada com pPython e a Ciência de Dados. 
+ > _Sou amante do açai :alien:. Gosto de um bom MPB enquanto produzo, sem deixar de lado :sparkles:Los Hermanos:sparkles:. Também sou hiper preocupada com questões ambientais e sociais e assisto Gilmore Girs incansavelmente_. A cada dia mais encantada com Python e a Ciência de Dados. 
 
 Sou:
 + Técnica de Informática, pelo IFPE;
