@@ -25,13 +25,14 @@ Sou:
 + Técnica em Desenvolvimento de Sistemas, pela ETEPAC;
 + Estudante de Geografia;
 + Estudante de dados, pela Resilia Educação;
++ Educadora Social em Tecnologia na Cruzando Históias, no projeto Costura Sonhos;
 + Amante do poder da Tecnologia da Informação.
 
 Resumo Visual:
 
 | Apelido | Idade| Atualmente |
 | ---- | ---- | --------- |
-| Tainha | 23 | Estudante de Geografia, inglês e de Dados:yellow_heart:|
+| Tainha | 23 | Estudante de Geografia, inglês e de Dados.:yellow_heart:|
 
 **************** 
 #### **_Clique para me encontrar_:**
