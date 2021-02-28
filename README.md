@@ -34,9 +34,15 @@ Resumo Visual:
 | Tainha | 23 | Estudante de Geografia, inglês e de Dados:yellow_heart:|
 
 **************** 
-### **_Encontre-me_**:
-[LinkedIn:](https://www.linkedin.com/in/natalia-gomes-4542781b1/)
+#### **_ Clique para me encontrar_:**
+[Meu Linkedin:](https://www.linkedin.com/in/natalia-gomes-4542781b1/)
+[Perfil no Medium:](Meu Linkedin:](https://www.linkedin.com/in/natalia-gomes-4542781b1/)
 
+
+
+#### **_ Demais formas de contato_:**
+E-mail: nataliaoliveira2@outlook.com
+Instagram: ___nataliao.gomes
 
 
 
