@@ -12,7 +12,7 @@
   
 
 **************** 
-**Sou**:
+### **Sou**:
 
 + Técnica de Informática, pelo IFPE;
 + Técnica em Desenvolvimento de Sistemas, pela ETEPAC;
@@ -23,10 +23,10 @@
 
 **************** 
 
-#### **_Clique para me encontrar_:**
+#### ** Clique para me encontrar:**
 [Meu Linkedin](https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
 
-#### **_Demais formas de contato_:**
+#### ** Demais formas de contato :**
 E-mail: nataliaoliveira2@outlook.com  <!DOCTYPE HTML/> <br/> 
 Instagram: ___nataliao.gomes <br/>
 
