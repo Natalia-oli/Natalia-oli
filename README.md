@@ -22,11 +22,8 @@
 + Amante do poder da Tecnologia da Informação.
 **************** 
 
-[Meu Linkedin](https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
-
-** Demais formas de contato :**
-
-E-mail: nataliaoliveira2@outlook.com  <!DOCTYPE HTML/> <br/> 
+_[Meu Linkedin]_(https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
+_E-mail: nataliaoliveira2@outlook.com_  <!DOCTYPE HTML/> <br/> 
 
             Sou uma Técnica em informática quase licenciada em geografia, que ama a natureza, questões ambientais e conscientizar pessoas a esse respeito, mas vivo flertando com a área da saúde, programação e música, sendo apaixonada pela área de Tecnologia da Informação. Nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder.
 
