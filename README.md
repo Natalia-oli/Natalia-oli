@@ -8,16 +8,8 @@
 </table>
 </center> 
 
-# Hello :hand:
-### _My name is Natália :dizzy:_
-  #### **Nice to meet you!**   :smile: 
+# Hello :hand: My name is Natália. Nice to meet you!  
   
-
-
-      Quem é Natália?
-**************** 
- > _Sou amante do açai :alien:. Gosto de um bom MPB enquanto produzo, sem deixar de lado :sparkles:Los Hermanos:sparkles:. Também sou hiper preocupada com questões ambientais e sociais e assisto Gilmore Girs incansavelmente_. A cada dia mais encantada com Python e a Ciência de Dados. 
-**************** 
 
 **************** 
 **Sou**:
@@ -31,21 +23,12 @@
 
 **************** 
 
-Resumo Visual:
-
-| Apelido | Idade| Atualmente |
-| ---- | ---- | --------- |
-| Tainha | 23 | Estudante de Geografia, inglês e de Dados.:yellow_heart:|
-
-**************** 
 #### **_Clique para me encontrar_:**
 [Meu Linkedin](https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
-
-[Perfil no Medium](https://medium.com/@natalia.gomes/)<!DOCTYPE HTML/> <br/> 
 
 #### **_Demais formas de contato_:**
 E-mail: nataliaoliveira2@outlook.com  <!DOCTYPE HTML/> <br/> 
 Instagram: ___nataliao.gomes <br/>
 
-            Sou uma Técnica em informática quase licenciada em geografia, que ama a natureza, questões ambientais e conscientizar pessoas a esse respeito, mas vivo flertando com a área da saúde, programação e música, sendo amante da área de Tecnologia da Informação. Nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder.
+            Sou uma Técnica em informática quase licenciada em geografia, que ama a natureza, questões ambientais e conscientizar pessoas a esse respeito, mas vivo flertando com a área da saúde, programação e música, sendo apaixonada pela área de Tecnologia da Informação. Nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder.
 
