@@ -4,7 +4,7 @@
   
 
 **************** 
-### **Sou**:
+### **Sou/estou**:
 
 + Técnica de Informática, pelo IFPE;
 + Técnica em Desenvolvimento de Sistemas, pela ETEPAC;
