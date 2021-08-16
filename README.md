@@ -9,7 +9,7 @@
 + Técnica de Informática, pelo IFPE;
 + Técnica em Desenvolvimento de Sistemas, pela ETEPAC;
 + Estudante de Geografia;
-+ Estudante de dados, pela Resilia Educação;
++ Analista de Dados, pela Resilia Educação;
 + Educadora Social em Tecnologia na Cruzando Histórias, no projeto Costura Sonhos;
 + Amante do poder da Tecnologia da Informação.
 **************** 
