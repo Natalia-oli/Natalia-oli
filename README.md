@@ -4,8 +4,6 @@
   
 
 **************** 
-### **Sou/estou**:
-
 + Técnica de Informática, pelo IFPE;
 + Técnica em Desenvolvimento de Sistemas, pela ETEPAC;
 + Estudante de Geografia;
@@ -17,5 +15,5 @@
 :mag_right: [Meu Linkedin](https://www.linkedin.com/in/natalia-gomes-4542781b1/)<!DOCTYPE HTML/> <br/> 
 :incoming_envelope: E-mail: nataliaoliveira2@outlook.com  <!DOCTYPE HTML/> <br/> 
 
-            Sou uma Técnica em informática quase licenciada em geografia, que ama a natureza, questões ambientais e conscientizar pessoas a esse respeito, porém, vivo flertando com a área da saúde, programação e música, sendo apaixonada pelo poder e potencial da Aréa de Dados. Nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder.
+            Sou uma Técnica em informática e Geográfa, apaixonada pelo poder e potencial da Aréa de Dados. Nesse mistura toda me encontro e faço minha poesia. Esse é o meu poder.
 
